@@ -1,11 +1,11 @@
-- 👋 Hi, Assalamu'alaikum
-- 😄 I’m Cinta Adenia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, Assalamu'alaikum
+
+- 👋 Hola, my name is Cinta Adenia, u can call me Cinta.
+- 👀 I’m currently apprenticeship on PT Humma Technology Indonesia / Hummatech
+- 🌱 I’m currently learning PHP Framework Laravel and Fluluter
+- 👨🏻‍🏫 I'm currently studying at SMK Muhammadiyah 6 Rogojampi
+- 📫 How to reach me ccintaadenia06@gmail.com
+
 
 <!---
 cintaadenia/cintaadenia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
